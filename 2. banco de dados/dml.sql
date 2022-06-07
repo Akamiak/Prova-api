@@ -1,5 +1,5 @@
-create database SuperHeroi;
-use SuperHeroi;
+create database SuperHerois;
+use SuperHerois;
 
 create table tb_super_heroi (
 	id_super_heroi    INT primary key,

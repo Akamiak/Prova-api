@@ -1,0 +1,25 @@
+
+(1) /POST       /superheroi
+request
+{
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}
+reponse
+{
+    "id": ?,
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}
+
+(2) /GET       /superheroi
+
+reponse
+{
+    "id": ?,
+    "nome": ?,
+    "super_poder": ?,
+    "voa": ?
+}

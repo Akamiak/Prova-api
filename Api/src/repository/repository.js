@@ -4,6 +4,7 @@ Const (con) = await mysql.createConection({
     password: '',
     database: ''
 });
+//continuar em casa
 
 
 Const (con) = await mysql.Conection({
